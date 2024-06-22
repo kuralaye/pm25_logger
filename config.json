@@ -1,0 +1,9 @@
+{
+    "API_URL": "https://pm25.lass-net.org/data/history.php?device_id={device_id}",
+    "DEVICE_ID": "74DA38B0539E",
+    "CSV_FILE": "pm25_data.csv",
+    "THRESHOLD": 30,
+    "CHECK_INTERVAL": 300,
+    "FOLDER_NAME": "PM25_Reports",
+    "LOG_FILE": "pm25_log.log"
+}
