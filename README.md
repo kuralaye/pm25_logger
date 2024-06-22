@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 ## Useage
 
-Ensure that the `config.json` configuration file and the script file are located in the same directory and run the script. To stop it, use Ctrl+C
+Ensure that the `config.json` configuration file and the script file are located in the same directory and run the main script `pm25_logger.py`. To stop, press Ctrl+C on terminal.
 
 ## Configuration
 
