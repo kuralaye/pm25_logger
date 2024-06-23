@@ -1,6 +1,6 @@
 # PM2.5 Data Logger
 
-This script fetches PM2.5 sensor data from a public API (https://pm25.lass-net.org/) and stores data in a local CSV file, and periodically checks for new data. It then analyzes the data and generates reports. 
+This script fetches PM2.5 sensor data from a public API (https://pm25.lass-net.org/), stores data in a local CSV file and periodically checks for new data. It then analyzes the data and generates reports. 
 The reports include statistical analysis of PM2.5 levels and highlight periods when the levels exceed a predefined threshold. 
 It also logs information such as CSV updates, PDF report generation, and errors in a log file.
 
